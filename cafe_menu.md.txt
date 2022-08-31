@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+</head>
+<body>
+<ul style=" list-style-type:circle;"> 
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\Apple-WalnuteBlondies.txt">Apple-Walnute Blondies</a></li>
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\EthiopianBuna.txt">Ethiopian Buna</a></li>
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\IndonesianAadoCoffee.txt">Indonesian Aado Coffee</a></li>
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\ItalianCreamIcedCoffee.txt">Italian Cream Iced Coffee</a></li>
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\Mapple-OatStickyCake.txt">Mapple-Oat Sticky Cake</a></li>
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\MoroccanPecornCoffe.txt">Moroccan Pecorn Coffe</a></li>
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\SaudiArabianKahwa.txt">SaudiArabian Kahwa</a></li>
+    <li> <a href="C:\Users\nijah\gitCafe\recipes\VietnameseEggCoffee.txt">Vietnamese Egg Coffee</a></li>
+    <li> <ahref="C:\Users\nijah\gitCafe\cafe_menu.md.txt">ice_tea</ahref=C:></li>
+    
+</ul>
+</body>
+</html>
